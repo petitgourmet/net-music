@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ab999a3-7154-496e-be49-bcc415da7420" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uQq6W3Nty4rBhdnXETklXBfvOA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resource/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\代码\python\网易云\src\gui\pages" />
+      <recent name="E:\代码\python\网易云\src\resource" />
+      <recent name="E:\代码\python\网易云\src\gui\pages\content\child" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\代码\python\网易云\src\resource\img" />
+      <recent name="E:\代码\python\网易云\src\gui\pages\content\child" />
+      <recent name="E:\代码\python\网易云\src\gui\img" />
+      <recent name="E:\代码\python\网易云\src\gui\components\content" />
+      <recent name="E:\代码\python\网易云\src\gui\components\common" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="网易云" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/gui/pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/gui/pages/MainWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MainWindow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ab999a3-7154-496e-be49-bcc415da7420" name="Default Changelist" comment="" />
+      <created>1624607985735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624607985735</updated>
+      <workItem from="1624607987183" duration="20117000" />
+      <workItem from="1624667826864" duration="28324000" />
+      <workItem from="1624721903278" duration="14000" />
+      <workItem from="1624751523552" duration="12833000" />
+      <workItem from="1624936634016" duration="22995000" />
+      <workItem from="1625007888559" duration="19683000" />
+      <workItem from="1625049747959" duration="28554000" />
+      <workItem from="1625135601314" duration="23651000" />
+      <workItem from="1625194916927" duration="1332000" />
+      <workItem from="1625196326031" duration="2083000" />
+      <workItem from="1625203836356" duration="8728000" />
+      <workItem from="1625216626510" duration="35533000" />
+      <workItem from="1625358858580" duration="12983000" />
+      <workItem from="1625375913580" duration="1765000" />
+      <workItem from="1625377714888" duration="90000" />
+      <workItem from="1625381228693" duration="1811000" />
+      <workItem from="1625383099224" duration="1786000" />
+      <workItem from="1625384912934" duration="1784000" />
+      <workItem from="1625386733893" duration="1780000" />
+      <workItem from="1625388572582" duration="1779000" />
+      <workItem from="1625390387134" duration="1788000" />
+      <workItem from="1625392242089" duration="1441000" />
+      <workItem from="1625397963465" duration="1405000" />
+      <workItem from="1625403190971" duration="1802000" />
+      <workItem from="1625405028359" duration="1778000" />
+      <workItem from="1625406834621" duration="1773000" />
+      <workItem from="1625408720778" duration="650000" />
+      <workItem from="1625409415212" duration="973000" />
+      <workItem from="1625442290199" duration="1710000" />
+      <workItem from="1625444029700" duration="1784000" />
+      <workItem from="1625445847823" duration="614000" />
+      <workItem from="1625471184450" duration="711000" />
+      <workItem from="1625473113534" duration="595000" />
+      <workItem from="1625531793423" duration="642000" />
+      <workItem from="1625536816581" duration="1763000" />
+      <workItem from="1625538618787" duration="280000" />
+      <workItem from="1625538913835" duration="90000" />
+      <workItem from="1625539123515" duration="1758000" />
+      <workItem from="1625540918286" duration="1788000" />
+      <workItem from="1625542742126" duration="1500000" />
+      <workItem from="1625544563741" duration="79000" />
+      <workItem from="1625553957804" duration="1783000" />
+      <workItem from="1625555766941" duration="1780000" />
+      <workItem from="1625557582551" duration="1926000" />
+      <workItem from="1625559548590" duration="1776000" />
+      <workItem from="1625561366028" duration="1780000" />
+      <workItem from="1625563179599" duration="1778000" />
+      <workItem from="1625564993278" duration="1466000" />
+      <workItem from="1625650734451" duration="77000" />
+      <workItem from="1625664237944" duration="1760000" />
+      <workItem from="1625666030220" duration="1866000" />
+      <workItem from="1625667926775" duration="380000" />
+      <workItem from="1625703571707" duration="1720000" />
+      <workItem from="1625705355297" duration="1775000" />
+      <workItem from="1625707160506" duration="1781000" />
+      <workItem from="1625708975802" duration="1780000" />
+      <workItem from="1625710795256" duration="1483000" />
+      <workItem from="1625714205886" duration="1780000" />
+      <workItem from="1625716018953" duration="234000" />
+      <workItem from="1625724528594" duration="1780000" />
+      <workItem from="1625726335934" duration="1783000" />
+      <workItem from="1625728148454" duration="1780000" />
+      <workItem from="1625729959982" duration="1780000" />
+      <workItem from="1625731770447" duration="1735000" />
+      <workItem from="1625733876858" duration="828000" />
+      <workItem from="1625738693379" duration="611000" />
+      <workItem from="1625795932058" duration="1675000" />
+      <workItem from="1625797657380" duration="1792000" />
+      <workItem from="1625799483479" duration="1779000" />
+      <workItem from="1625801294817" duration="1809000" />
+      <workItem from="1625803244859" duration="1080000" />
+      <workItem from="1625811633702" duration="1867000" />
+      <workItem from="1625813596121" duration="1715000" />
+      <workItem from="1625816036578" duration="1779000" />
+      <workItem from="1625817894665" duration="1772000" />
+      <workItem from="1625819736788" duration="1087000" />
+      <workItem from="1625834537780" duration="1773000" />
+      <workItem from="1625836431916" duration="1769000" />
+      <workItem from="1625838249656" duration="1332000" />
+      <workItem from="1625839636410" duration="364000" />
+      <workItem from="1625840017706" duration="1587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625820529181">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1625820529181" />
+    <state x="504" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625385299396">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="504" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1625385299396" />
+    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1625733267408">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1625733267408" />
+    <state width="1534" height="127" key="DebuggerActiveHint" timestamp="1625716186792">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1534" height="127" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1625716186792" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1625841614227">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1625841614227" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1625841614226">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1625841614226" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1625841614226">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1625841614226" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1625841614227">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1625841614227" />
+    <state width="1493" height="439" key="GridCell.Tab.1.bottom" timestamp="1625840002744">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="439" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1625840002744" />
+    <state width="1493" height="439" key="GridCell.Tab.1.center" timestamp="1625840002744">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="439" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1625840002744" />
+    <state width="1493" height="439" key="GridCell.Tab.1.left" timestamp="1625840002744">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="439" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1625840002744" />
+    <state width="1493" height="439" key="GridCell.Tab.1.right" timestamp="1625840002744">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="439" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1625840002744" />
+    <state x="272" y="62" key="SettingsEditor" timestamp="1625839240024">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="272" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1625839240024" />
+    <state x="211" y="1" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1625565561424">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="211" y="1" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1625565561424" />
+    <state x="510" y="64" key="refactoring.ChangeSignatureDialog" timestamp="1625715236414">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="510" y="64" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1625715236414" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1625727749319">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1625727749319" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$MainWindow.coverage" NAME="MainWindow Coverage Results" MODIFIED="1625840036137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages" />
+    <SUITE FILE_PATH="coverage/$NavBar.coverage" NAME="NavBar Coverage Results" MODIFIED="1624712172841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/navbar" />
+    <SUITE FILE_PATH="coverage/$ControlWidget.coverage" NAME="ControlWidget Coverage Results" MODIFIED="1624691879728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/statusbar" />
+    <SUITE FILE_PATH="coverage/$LineEdit.coverage" NAME="LineEdit Coverage Results" MODIFIED="1624623754232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/components/common" />
+    <SUITE FILE_PATH="coverage/$RecodeStack.coverage" NAME="RecodeStack Coverage Results" MODIFIED="1625560302266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/bean" />
+    <SUITE FILE_PATH="coverage/$MenuWidget.coverage" NAME="MenuWidget Coverage Results" MODIFIED="1625377723215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/navbar" />
+    <SUITE FILE_PATH="coverage/$req.coverage" NAME="req Coverage Results" MODIFIED="1625715245281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/spider" />
+    <SUITE FILE_PATH="coverage/$DownloadWidget.coverage" NAME="DownloadWidget Coverage Results" MODIFIED="1625105765011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/content/child" />
+    <SUITE FILE_PATH="coverage/$MusicPlayer.coverage" NAME="MusicPlayer Coverage Results" MODIFIED="1625804064686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/statusbar" />
+    <SUITE FILE_PATH="coverage/$MusicDataSource.coverage" NAME="MusicDataSource Coverage Results" MODIFIED="1625125241000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/spider" />
+    <SUITE FILE_PATH="coverage/$KeyWordSearchWidget.coverage" NAME="KeyWordSearchWidget Coverage Results" MODIFIED="1625296422787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/content/child" />
+    <SUITE FILE_PATH="coverage/$MyDeviceWidget.coverage" NAME="MyDeviceWidget Coverage Results" MODIFIED="1625820443300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/content/child" />
+    <SUITE FILE_PATH="coverage/$HomeWidget.coverage" NAME="HomeWidget Coverage Results" MODIFIED="1625731171391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/content/child" />
+    <SUITE FILE_PATH="coverage/$LyricWidget.coverage" NAME="LyricWidget Coverage Results" MODIFIED="1625703726974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/statusbar" />
+    <SUITE FILE_PATH="coverage/$MenuButton.coverage" NAME="MenuButton Coverage Results" MODIFIED="1624974046218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/components/content" />
+    <SUITE FILE_PATH="coverage/$Table.coverage" NAME="Table Coverage Results" MODIFIED="1625282118230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/components/content" />
+    <SUITE FILE_PATH="coverage/$Redis.coverage" NAME="Redis Coverage Results" MODIFIED="1625386576634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/dao" />
+    <SUITE FILE_PATH="coverage/$MusicItem.coverage" NAME="MusicItem Coverage Results" MODIFIED="1624708133498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/components/content" />
+    <SUITE FILE_PATH="coverage/$MenuListWidget.coverage" NAME="MenuListWidget Coverage Results" MODIFIED="1624720689417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/content" />
+    <SUITE FILE_PATH="coverage/$SearchWidget.coverage" NAME="SearchWidget Coverage Results" MODIFIED="1624631796700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/navbar" />
+    <SUITE FILE_PATH="coverage/$FavourDownloadButton.coverage" NAME="FavourDownloadButton Coverage Results" MODIFIED="1625285522607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/components/content" />
+    <SUITE FILE_PATH="coverage/$index.coverage" NAME="index Coverage Results" MODIFIED="1624615219499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/spider" />
+    <SUITE FILE_PATH="coverage/$Loading.coverage" NAME="Loading Coverage Results" MODIFIED="1625008449180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/components/common" />
+    <SUITE FILE_PATH="coverage/$LogoWidget.coverage" NAME="LogoWidget Coverage Results" MODIFIED="1624621951695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/navbar" />
+    <SUITE FILE_PATH="coverage/$LastestLabel.coverage" NAME="LastestLabel Coverage Results" MODIFIED="1625392327753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/components/content" />
+    <SUITE FILE_PATH="coverage/$Path.coverage" NAME="Path Coverage Results" MODIFIED="1625385092028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/utils" />
+    <SUITE FILE_PATH="coverage/$MSToTime.coverage" NAME="MSToTime Coverage Results" MODIFIED="1625032594560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/utils" />
+    <SUITE FILE_PATH="coverage/$HoverButton.coverage" NAME="HoverButton Coverage Results" MODIFIED="1625285253401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/components/content" />
+    <SUITE FILE_PATH="coverage/$CursorButton.coverage" NAME="CursorButton Coverage Results" MODIFIED="1624668653781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/components/common" />
+    <SUITE FILE_PATH="coverage/$FindMusicWidget.coverage" NAME="FindMusicWidget Coverage Results" MODIFIED="1625360262382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/content/child" />
+    <SUITE FILE_PATH="coverage/$StatusBar.coverage" NAME="StatusBar Coverage Results" MODIFIED="1625276475019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/statusbar" />
+    <SUITE FILE_PATH="coverage/$MusicDataSource__1_.coverage" NAME="MusicDataSource (1) Coverage Results" MODIFIED="1624615336810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/spider" />
+    <SUITE FILE_PATH="coverage/$DownloadButton.coverage" NAME="DownloadButton Coverage Results" MODIFIED="1625061312471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/components/content" />
+    <SUITE FILE_PATH="coverage/$Music.coverage" NAME="Music Coverage Results" MODIFIED="1625134622741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/bean" />
+    <SUITE FILE_PATH="coverage/$StatusWidget.coverage" NAME="StatusWidget Coverage Results" MODIFIED="1625275437053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/statusbar" />
+    <SUITE FILE_PATH="coverage/$Content.coverage" NAME="Content Coverage Results" MODIFIED="1625009134668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/content" />
+    <SUITE FILE_PATH="coverage/$DisabledButton.coverage" NAME="DisabledButton Coverage Results" MODIFIED="1624631610518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/components/content" />
+    <SUITE FILE_PATH="coverage/$Setting.coverage" NAME="Redis Coverage Results" MODIFIED="1625182305275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/dao" />
+    <SUITE FILE_PATH="coverage/$Download.coverage" NAME="Download Coverage Results" MODIFIED="1625299774987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/spider" />
+    <SUITE FILE_PATH="coverage/$LyricFormatter.coverage" NAME="LyricFormatter Coverage Results" MODIFIED="1625708269091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/utils" />
+    <SUITE FILE_PATH="coverage/$TimeFormatter.coverage" NAME="TimeFormatter Coverage Results" MODIFIED="1625392833833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/utils" />
+    <SUITE FILE_PATH="coverage/$ArtistWidget.coverage" NAME="ArtistWidget Coverage Results" MODIFIED="1625286480732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/components/content" />
+    <SUITE FILE_PATH="coverage/$VideoWidget.coverage" NAME="VideoWidget Coverage Results" MODIFIED="1625813896991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/content/child" />
+    <SUITE FILE_PATH="coverage/$api.coverage" NAME="api Coverage Results" MODIFIED="1625724867690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/spider" />
+    <SUITE FILE_PATH="coverage/$Source.coverage" NAME="Source Coverage Results" MODIFIED="1624613853739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/spider" />
+    <SUITE FILE_PATH="coverage/$MusicList.coverage" NAME="MusicList Coverage Results" MODIFIED="1625728081740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/bean" />
+    <SUITE FILE_PATH="coverage/$SpiderResolver.coverage" NAME="SpiderResolver Coverage Results" MODIFIED="1625715916562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/resolver" />
+    <SUITE FILE_PATH="coverage/$PageStackedWidget.coverage" NAME="PageStackedWidget Coverage Results" MODIFIED="1625217710379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/pages/content" />
+    <SUITE FILE_PATH="coverage/$Spider.coverage" NAME="Spider Coverage Results" MODIFIED="1625270917549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gui/utils" />
+  </component>
+</project>
